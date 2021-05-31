@@ -1,5 +1,5 @@
 const clientConfig = {
-	siteUrl: 'https://codeytek.com',
+	siteUrl: 'https://urdunews.ga',
 };
 
 export default clientConfig;
